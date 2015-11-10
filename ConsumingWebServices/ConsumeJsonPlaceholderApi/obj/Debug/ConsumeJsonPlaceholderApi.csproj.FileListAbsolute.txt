@@ -1,0 +1,7 @@
+D:\TELERIK\Web-Services\Homework\ConsumingFeedzila\ConsumeJsonPlaceholderApi\bin\Debug\ConsumeJsonPlaceholderApi.exe.config
+D:\TELERIK\Web-Services\Homework\ConsumingFeedzila\ConsumeJsonPlaceholderApi\bin\Debug\ConsumeJsonPlaceholderApi.exe
+D:\TELERIK\Web-Services\Homework\ConsumingFeedzila\ConsumeJsonPlaceholderApi\bin\Debug\ConsumeJsonPlaceholderApi.pdb
+D:\TELERIK\Web-Services\Homework\ConsumingFeedzila\ConsumeJsonPlaceholderApi\bin\Debug\Newtonsoft.Json.dll
+D:\TELERIK\Web-Services\Homework\ConsumingFeedzila\ConsumeJsonPlaceholderApi\bin\Debug\Newtonsoft.Json.xml
+D:\TELERIK\Web-Services\Homework\ConsumingFeedzila\ConsumeJsonPlaceholderApi\obj\Debug\ConsumeJsonPlaceholderApi.exe
+D:\TELERIK\Web-Services\Homework\ConsumingFeedzila\ConsumeJsonPlaceholderApi\obj\Debug\ConsumeJsonPlaceholderApi.pdb

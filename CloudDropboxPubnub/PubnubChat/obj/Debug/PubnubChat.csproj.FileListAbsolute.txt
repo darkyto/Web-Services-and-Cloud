@@ -1,0 +1,10 @@
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PubnubChat\bin\Debug\PubnubChat.exe.config
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PubnubChat\bin\Debug\PubnubChat.exe.config
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PubnubChat\bin\Debug\PubnubChat.exe
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PubnubChat\bin\Debug\PubnubChat.pdb
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PubnubChat\obj\Debug\PubnubChat.csprojResolveAssemblyReference.cache
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PubnubChat\obj\Debug\PubnubChat.exe
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PubnubChat\obj\Debug\PubnubChat.pdb
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PubnubChat\bin\Debug\PubnubChat.exe.config
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PubnubChat\obj\Debug\PubnubChat.exe
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PubnubChat\obj\Debug\PubnubChat.pdb

@@ -1,0 +1,54 @@
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\PublishPhotosInDropbox.exe.config
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\PublishPhotosInDropbox.exe
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\PublishPhotosInDropbox.pdb
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\DropNet.dll
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\RestSharp.dll
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Rest.dll
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Social.Core.dll
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Social.Dropbox.dll
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\RestSharp.xml
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Rest.pdb
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Rest.xml
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Social.Core.pdb
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Social.Core.xml
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Social.Dropbox.pdb
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Social.Dropbox.xml
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\obj\Debug\PublishPhotosInDropbox.csprojResolveAssemblyReference.cache
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\obj\Debug\PublishPhotosInDropbox.exe
+C:\Users\divided.zero\Downloads\Telerik-Academy-master\Telerik-Academy-master\Web-Services-and-Cloud\08. Cloud-Services\08-CloudServices\PublishPhotosInDropbox\obj\Debug\PublishPhotosInDropbox.pdb
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\PublishPhotosInDropbox.exe.config
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\obj\Debug\PublishPhotosInDropbox.exe
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\obj\Debug\PublishPhotosInDropbox.pdb
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\PublishPhotosInDropbox.exe
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\PublishPhotosInDropbox.pdb
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\DropNet.dll
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\RestSharp.dll
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Rest.dll
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Social.Core.dll
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Social.Dropbox.dll
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\RestSharp.xml
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Rest.pdb
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Rest.xml
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Social.Core.pdb
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Social.Core.xml
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Social.Dropbox.pdb
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\bin\Debug\Spring.Social.Dropbox.xml
+D:\Personal\TELERIK\Web-Services\Homework\Cloud-Services\08-CloudServices\PublishPhotosInDropbox\obj\Debug\PublishPhotosInDropbox.csprojResolveAssemblyReference.cache
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\bin\Debug\PublishPhotosInDropbox.exe.config
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\obj\Debug\PublishPhotosInDropbox.exe
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\obj\Debug\PublishPhotosInDropbox.pdb
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\bin\Debug\PublishPhotosInDropbox.exe
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\bin\Debug\PublishPhotosInDropbox.pdb
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\bin\Debug\DropNet.dll
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\bin\Debug\RestSharp.dll
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\bin\Debug\Spring.Rest.dll
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\bin\Debug\Spring.Social.Core.dll
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\bin\Debug\Spring.Social.Dropbox.dll
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\bin\Debug\RestSharp.xml
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\bin\Debug\Spring.Rest.pdb
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\bin\Debug\Spring.Rest.xml
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\bin\Debug\Spring.Social.Core.pdb
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\bin\Debug\Spring.Social.Core.xml
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\bin\Debug\Spring.Social.Dropbox.pdb
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\bin\Debug\Spring.Social.Dropbox.xml
+D:\Personal\TELERIK\Web-Services\Homework\CloudDropboxPubnub\PublishPhotosInDropbox\obj\Debug\PublishPhotosInDropbox.csprojResolveAssemblyReference.cache
